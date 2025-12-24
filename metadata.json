@@ -1,0 +1,7 @@
+{
+  "name": "ID Assist AI",
+  "description": "An executive-grade platform for Independent Directors offering data-driven insights, regulatory clarity, and AI-powered decision support for boardroom excellence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
